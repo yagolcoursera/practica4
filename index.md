@@ -8,6 +8,6 @@
   <script src="script.js"></script>
 </head>
 <body>
-  <h1>Module 4</h1>
+  <h1>Module 4 - Check Console</h1>
 </body>
 </html>
